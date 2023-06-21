@@ -14,8 +14,8 @@
 
 ### Clone the project
 ```shell
-git clone https://github.com/Himanshu8862/Chatterbox
-cd Chatterbox
+git clone https://github.com/Himanshu8862/Chatterbox-v1.0
+cd Chatterbox-v1.0
 ```
 
 ### Environment Variables
